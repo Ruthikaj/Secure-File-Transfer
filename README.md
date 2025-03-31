@@ -38,7 +38,7 @@ This repository contains a secure file transfer system implemented in Python, pr
 
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/amri-tah/Secure-File-Transfer.git
+   git clone https://github.com/Ruthika/Secure-File-Transfer.git
    ```
 
 2. Install the required dependencies.
